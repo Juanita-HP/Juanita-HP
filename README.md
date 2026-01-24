@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Feel free to explore, and I hope you enjoy your visit 💋
+  Feel free to explore, and I hope you enjoy your visit 
 </p>
 
 <p align="center">
