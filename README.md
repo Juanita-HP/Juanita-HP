@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I’m Juanita.
+This is my space to share the work shaping my journey toward becoming an AI & Machine Learning Engineer.
+Feel free to explore and I hope you enjoy your visit 👩🏻‍💻
+
+https://www.linkedin.com/in/juanita-h-679a68220/
 
 <!--
 **Juanita-HP/Juanita-HP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
