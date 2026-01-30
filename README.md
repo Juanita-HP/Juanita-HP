@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I’m Juanita</h1>
 
 <p align="center">
-  This is my space to share the work shaping my journey toward becoming an
+  Computer Science student with interests in
   <br/>
-  <strong>AI & Machine Learning Engineer</strong> 👩🏻‍💻
+  <strong>Artificial Intelligence, Machine Learning, and Computing Foundations</strong>
 </p>
 
 <p align="center">
-  Feel free to explore! I hope you enjoy your visit :)
+  This GitHub documents my coursework, coding practice, and personal projects
+  <br/>
+  as I build strong theoretical and hands-on skills in computer science.
 </p>
 
 <p align="center">
@@ -16,7 +18,6 @@
   </a>
 </p>
 
-<!--
 **Juanita-HP/Juanita-HP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
