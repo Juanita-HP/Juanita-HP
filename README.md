@@ -14,7 +14,7 @@ as I build strong theoretical and hands-on skills in computer science.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://juanita.dev/">
-  <img src="https://img.shields.io/badge/Website-20232A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/Juanita-20232A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
 </a>
 
 </div>
