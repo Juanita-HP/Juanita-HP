@@ -12,4 +12,8 @@ as I build strong theoretical and hands-on skills in computer science.
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
 </a>
 
+<a href="https://juanita.dev/">
+  <img src="https://img.shields.io/badge/Website-black?style=flat&logo=google-chrome">
+</a>
+
 </div>
