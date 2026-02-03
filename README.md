@@ -8,12 +8,13 @@ Computer Science student with interests in
 This GitHub documents my coding practice, and personal projects  
 as I build strong theoretical and hands-on skills in computer science.
 
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
-</a>
+<br>
 
+<a href="https://www.linkedin.com/in/YOUR_PROFILE">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <a href="https://juanita.dev/">
-  <img src="https://img.shields.io/badge/Website-black?style=flat&logo=google-chrome">
+  <img src="https://img.shields.io/badge/Website-20232A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
 </a>
 
 </div>
