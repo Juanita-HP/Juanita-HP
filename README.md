@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋, I'm Juanita
+## Hi, I'm Juanita
 
 Computer Science student with interests in  
 **Artificial Intelligence, Quantum Computing, Machine Learning, and Computing Mathematics**
